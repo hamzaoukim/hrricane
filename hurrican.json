@@ -1,0 +1,5 @@
+{
+  "showInterstitialAd": true,
+  "maxBackButtonPressCount": 7,
+  "websiteUrl": "https://www.nhc.noaa.gov/" 
+}
